@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "parentId": null,
+        "name": "Arthur Weasley",
+        "gender": "male",
+        "spouseId": 2,
+        "description": "Arthur Weasley works at the Ministry of Magic in the Misuse of Muggle Artifacts Office. He has a fascination with Muggle inventions and often tinkers with them. He is a loving father and a strong advocate for Muggle rights."
+    },
+    {
+        "id": 2,
+        "parentId": null,
+        "name": "Molly Weasley",
+        "gender": "female",
+        "spouseId": 1,
+        "description": "Molly Weasley is the matriarch of the Weasley family, known for her fierce love and protectiveness. She is an excellent cook and manages the household with great efficiency. Molly is also a member of the Order of the Phoenix."
+    },
+    {
+        "id": 3,
+        "parentId": 1,
+        "name": "Bill Weasley",
+        "gender": "male",
+        "spouseId": 7,
+        "description": "Bill Weasley is the eldest son, who works as a curse breaker for Gringotts Bank. He is known for his adventurous spirit and bravery. Bill marries Fleur Delacour and plays a crucial role in the fight against Voldemort."
+    },
+    {
+        "id": 4,
+        "parentId": 1,
+        "name": "Charlie Weasley",
+        "gender": "male",
+        "spouseId": null,
+        "description": "Charlie Weasley is the second eldest son who works with dragons in Romania. He is passionate about magical creatures and has a rugged, outdoorsy demeanor. Charlie remains unmarried and deeply involved in his work."
+    },
+    {
+        "id": 5,
+        "parentId": 1,
+        "name": "Percy Weasley",
+        "gender": "male",
+        "spouseId": 8,
+        "description": "Percy Weasley is ambitious and works for the Ministry of Magic, initially estranged from his family. He values rules and order, often clashing with his more free-spirited siblings. Percy eventually reconciles with his family and marries Audrey."
+    },
+    {
+        "id": 6,
+        "parentId": 1,
+        "name": "Fred Weasley",
+        "gender": "male",
+        "spouseId": null,
+        "description": "Fred Weasley, along with his twin brother George, co-founded Weasleys' Wizard Wheezes, a joke shop. He is known for his mischievous nature and sense of humor. Fred tragically dies in the Battle of Hogwarts."
+    },
+    {
+        "id": 7,
+        "parentId": 1,
+        "name": "George Weasley",
+        "gender": "male",
+        "spouseId": 9,
+        "description": "George Weasley, the twin of Fred, co-founded Weasleys' Wizard Wheezes. He shares his brother's entrepreneurial spirit and comedic talent. After Fred's death, George continues the business and marries Angelina Johnson."
+    },
+    {
+        "id": 8,
+        "parentId": 1,
+        "name": "Ron Weasley",
+        "gender": "male",
+        "spouseId": 10,
+        "description": "Ron Weasley is Harry Potter's best friend and a member of the Golden Trio. He is known for his loyalty, bravery, and occasional insecurities. Ron marries Hermione Granger and becomes an Auror."
+    },
+    {
+        "id": 9,
+        "parentId": 1,
+        "name": "Ginny Weasley",
+        "gender": "female",
+        "spouseId": 11,
+        "description": "Ginny Weasley is the youngest Weasley sibling and a talented witch. She is known for her fiery personality and exceptional skills in Quidditch. Ginny marries Harry Potter and becomes a professional Quidditch player and later a journalist."
+    },
+    {
+        "id": 10,
+        "parentId": null,
+        "name": "Fleur Delacour",
+        "gender": "female",
+        "spouseId": 3,
+        "description": "Fleur Delacour is a French witch who competes in the Triwizard Tournament. She marries Bill Weasley and becomes part of the Weasley family. Fleur is known for her beauty, bravery, and strong will."
+    },
+    {
+        "id": 11,
+        "parentId": null,
+        "name": "Audrey Weasley",
+        "gender": "female",
+        "spouseId": 5,
+        "description": "Audrey Weasley is the wife of Percy Weasley, though not much is known about her. She is supportive of Percy's career and his eventual reconciliation with his family. Audrey is a steady and calming presence in Percy's life."
+    },
+    {
+        "id": 12,
+        "parentId": null,
+        "name": "Angelina Johnson",
+        "gender": "female",
+        "spouseId": 7,
+        "description": "Angelina Johnson is a talented Quidditch player who marries George Weasley. She was a member of the Gryffindor Quidditch team during her time at Hogwarts. Angelina is strong-willed, capable, and supportive of George after Fred's death."
+    },
+    {
+        "id": 13,
+        "parentId": null,
+        "name": "Hermione Granger",
+        "gender": "female",
+        "spouseId": 8,
+        "description": "Hermione Granger is one of the brightest witches of her age and a key member of the Golden Trio. She is known for her intelligence, resourcefulness, and strong sense of justice. Hermione marries Ron Weasley and has a successful career in the Ministry of Magic."
+    },
+    {
+        "id": 14,
+        "parentId": null,
+        "name": "Harry Potter",
+        "gender": "male",
+        "spouseId": 9,
+        "description": "Harry Potter is the Boy Who Lived, known for his role in defeating Voldemort. He is brave, loyal, and determined, with a strong sense of right and wrong. Harry marries Ginny Weasley and becomes a top Auror in the Ministry of Magic."
+    }
+]
+
